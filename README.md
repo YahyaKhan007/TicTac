@@ -1,2 +1,2 @@
-# TicTac-Python
-TicTac Game in python
+# TicTac-Python and in Node.Js
+
